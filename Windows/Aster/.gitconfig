@@ -1,0 +1,11 @@
+[user]
+	name = Aster
+	email = galaster@foxmail.com
+[http]
+	proxy = socks5://127.0.0.1:1080
+[https]
+	proxy = socks5://127.0.0.1:1080
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[credential]
+	helper = store
