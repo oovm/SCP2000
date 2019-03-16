@@ -1,0 +1,75 @@
+{
+  "available-campaign-levels": {
+    "demo": {
+      "level-01": "hard"
+    },
+    "tight-spot": {
+      "level-01": "hard",
+      "level-02": "hard",
+      "level-03": "hard",
+      "level-04": "hard",
+      "level-05": "hard"
+    },
+    "transport-belt-madness": {
+      "level-01": "hard"
+    }
+  },
+  "tutorials": {
+    "construction-robots": "suggested",
+    "logistic-system-basic": "suggested",
+    "trains-advanced-signals": "suggested",
+    "trains-basic-signals": "suggested",
+    "trains-basics": "suggested",
+    "trains-ghost-rail-planner": "suggested",
+    "trains-stations": "suggested"
+  },
+  "console-history": [
+    "我把太阳能扔二环下面吧",
+    "我按双向四车道算",
+    "你放第一个",
+    "然后我也丢了进去......",
+    "堵车了....去看下",
+    "电厂断电啦.....害怕",
+    "完全搞不懂为什么会停电",
+    "左边杆满电 右边杆就没电了",
+    "这里的一个填海厂和铁路厂满了....找个地方挥霍掉",
+    "堵车了...处理下",
+    "加的物流机器人都不动",
+    "想办法提出来吧",
+    "呃..嗯",
+    "这路上居然没灯",
+    "填海造铁路啊",
+    "车站怎么拆了....那怎么把乱七八糟的矿扔回去",
+    "我要安全铁路...有图纸吗",
+    "我现在过马路提心吊胆的",
+    "会卡啊...卡2秒死定了",
+    "那个拆了吧...位置挡住下面的油了",
+    "这车为什么卡",
+    "普通灯还卡",
+    "好了.........",
+    "这卫星怎么这样摆的......",
+    "...............",
+    "用桶运好像比用车厢运运得多",
+    "卫星不能连网络我去....."
+  ],
+  "latest-multiplayer-connections": [{}],
+  "service-username": "GalAster",
+  "service-token": "2227276e80144326634e84e20c7943",
+  "last-used-filters": {
+    "password": "any",
+    "mods": "any",
+    "friends": "any"
+  },
+  "column-ordering": {
+    "public-index": "name",
+    "public-ascending": true,
+    "lan-index": "name",
+    "lan-ascending": true
+  },
+  "last-played-version": {
+    "game_version": "0.16.51",
+    "build_version": 36654,
+    "build_mode": "steam",
+    "platform": "win64"
+  }
+}
