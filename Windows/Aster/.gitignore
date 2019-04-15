@@ -2,7 +2,7 @@
 
 .git-credentials
 .bash_history
-
+.babel.json
 
 # wakatime
 .wakatime.db
