@@ -1,0 +1,21 @@
+{
+    "useTaobaoRegistry": true,
+    "packageManager": "yarn",
+    "presets": {
+        "preset": {
+            "useConfigFiles": true,
+            "plugins": {
+                "@vue/cli-plugin-babel": {},
+                "@vue/cli-plugin-typescript": {
+                    "classComponent": true,
+                    "tsLint": true,
+                    "lintOn": [
+                        "commit"
+                    ],
+                    "useTsWithBabel": true
+                },
+                "@vue/cli-plugin-pwa": {}
+            }
+        }
+    }
+}
